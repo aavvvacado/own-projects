@@ -1,0 +1,28 @@
+ **Get Ready for the Challenge!**
+ 
+ - You've got three attempts to crack the code and guess the secret number between 0 and 10.
+
+ **Sharp Eyes, Quick Mind!**
+ 
+ - Pay attention to the hints; they're your guide to uncovering the mystery.
+
+ **Hot on the Trail? Very Close!**
+
+ - When the hint says you're very close, you're breathing down the number's neck, within a difference of 2 or less.
+
+ **Feel the Tension? You're Close!**
+
+- If the game suggests you're close, you're almost there, within a difference of 4 or less.
+
+ **Distant Echoes? You're Far!**
+
+- If it declares you're far, you've got some ground to cover, your guess is off by 6 or more.
+
+ **The Clock is Ticking!**
+ 
+ - Remember, time is of the essence. Make those guesses count and let the thrill of the unknown keep you on the edge!
+
+
+ **Good Luck, Detective!**
+
+ - Channel your inner Sherlock and dive into the challenge. Will you unveil the secret number, or will it remain shrouded in mystery? The game awaits!>
